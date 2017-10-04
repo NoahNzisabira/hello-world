@@ -1,3 +1,3 @@
-# hello-world
-repository-1
-This is a comment
+# Java Game
+This is a bit of a placeholder project,
+
